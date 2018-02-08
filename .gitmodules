@@ -1,0 +1,3 @@
+[submodule "form-pracitces"]
+	path = form-pracitces
+	url = https://github.com/OshimaT/angular-mastery.git
